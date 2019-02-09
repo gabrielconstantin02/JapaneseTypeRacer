@@ -5,6 +5,7 @@
 ### Features
 
 An android application dedicated to all japanese lovers. 
+
 The app contains 2 main functions:
 
 *hiragana typing practice
